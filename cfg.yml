@@ -1,0 +1,12 @@
+prompt_file: prompts/prompt-1.txt 
+db_config: {
+  "host": "95.79.46.185",
+  "port": "9046",
+  "database": "hackathons_db",
+  "collection": "hackathons"
+}
+rebbitMQ_host: ""
+rebbitMQ_queue_name: ""
+client_id: "98d82e31-18e9-4302-a597-757bafadfb2a"
+client_secret: "3397a853-f656-4222-817b-9ead853f6410"
+scope: "GIGACHAT_API_PERS"
